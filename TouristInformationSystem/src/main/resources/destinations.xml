@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<destinations>
+    <destination id="taj-mahal">
+        <name>Taj Mahal</name>
+        <city>Agra</city>
+        <state>Uttar Pradesh</state>
+        <category>Heritage</category>
+        <shortDescription>An iconic ivory-white marble mausoleum on the Yamuna river, recognized as a UNESCO World Heritage Site and one of the New Seven Wonders of the World.</shortDescription>
+        <description>The Taj Mahal is an ivory-white marble mausoleum situated on the southern bank of the Yamuna River in Agra. Commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal, it stands as the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. The complex includes a grand gateway, a symmetrical Charbagh garden, a mosque, and a guest house, all enclosed within crenellated walls.</description>
+        <attractions>
+            <attraction>Agra Fort (UNESCO World Heritage red sandstone fortress)</attraction>
+            <attraction>Mehtab Bagh (Moonlight Garden offering sunset views across the river)</attraction>
+            <attraction>Itmad-ud-Daulah (Often referred to as the Baby Taj)</attraction>
+            <attraction>Fatehpur Sikri (Historic Mughal capital city 37 km away)</attraction>
+            <attraction>Taj Nature Walk (Scenic 9-km trail near the monument)</attraction>
+        </attractions>
+        <bestTimeToVisit>October to March (Cool, pleasant weather)</bestTimeToVisit>
+        <estimatedBudget>₹8,000 - ₹12,000 per person</estimatedBudget>
+        <recommendedDuration>1 - 2 Days</recommendedDuration>
+        <travelTips>
+            <tip>Closed on Fridays for afternoon prayers; plan your itinerary accordingly.</tip>
+            <tip>Purchase tickets online via the Archaeological Survey of India (ASI) portal to bypass long lines.</tip>
+            <tip>Visit at sunrise for ethereal lighting, cooler temperatures, and lighter crowds.</tip>
+            <tip>Only small transparent water bottles, cameras, and mobile phones are permitted inside.</tip>
+        </travelTips>
+        <imagePath>https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imagePath>
+        <featured>true</featured>
+    </destination>
+
+    <destination id="manali">
+        <name>Manali</name>
+        <city>Manali</city>
+        <state>Himachal Pradesh</state>
+        <category>Hill Station</category>
+        <shortDescription>A breathtaking hill station nestled in the snow-capped Pir Panjal ranges, famous for alpine forests, gushing rivers, and mountain adventures.</shortDescription>
+        <description>Nestled in the Beas River Valley of Himachal Pradesh, Manali is one of Northern India's most beloved mountain retreats. Surrounded by towering pine forests, snow-clad peaks, and fragrant apple orchards, Manali offers a perfect balance of tranquil natural beauty and thrilling adventure sports like paragliding, river rafting, skiing, and high-altitude trekking.</description>
+        <attractions>
+            <attraction>Solang Valley (Hub for paragliding, zorbing, and winter snow sports)</attraction>
+            <attraction>Rohtang Pass (High-mountain pass at 13,058 ft with breathtaking views)</attraction>
+            <attraction>Hadimba Temple (16th-century wooden temple nestled in cedar forests)</attraction>
+            <attraction>Jogini Waterfalls (Scenic nature trek through pine orchards)</attraction>
+            <attraction>Atal Tunnel (Engineering marvel leading to the pristine Lahaul Valley)</attraction>
+            <attraction>Old Manali (Bohemian cafes, live music, and handcrafted souvenirs)</attraction>
+        </attractions>
+        <bestTimeToVisit>October to February (Snowfall); March to June (Pleasant summers)</bestTimeToVisit>
+        <estimatedBudget>₹12,000 - ₹18,000 per person</estimatedBudget>
+        <recommendedDuration>4 - 5 Days</recommendedDuration>
+        <travelTips>
+            <tip>Rohtang Pass permits are mandatory and should be booked well in advance online.</tip>
+            <tip>Pack layered clothing, thermal wear, and sturdy water-resistant boots during winter.</tip>
+            <tip>Rent local snow gear and 4x4 cabs from registered operators in Solang or Manali town.</tip>
+            <tip>Stay hydrated and allow time to acclimatize to the higher altitudes.</tip>
+        </travelTips>
+        <imagePath>https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imagePath>
+        <featured>true</featured>
+    </destination>
+
+    <destination id="jaipur">
+        <name>Jaipur</name>
+        <city>Jaipur</city>
+        <state>Rajasthan</state>
+        <category>Heritage</category>
+        <shortDescription>The famed Pink City of royal palaces, hilltop fortresses, colorful bazaars, and rich Rajput architectural splendor.</shortDescription>
+        <description>Jaipur, the capital of Rajasthan, was founded in 1727 by Maharaja Sawai Jai Singh II. Known globally as the Pink City because of the terracotta pink wash applied to welcome the Prince of Wales in 1876, Jaipur forms part of India's Golden Triangle tourist circuit. The city mesmerizes visitors with its majestic hill forts, royal residences, astronomical observatories, and vibrant handicraft markets.</description>
+        <attractions>
+            <attraction>Amer Fort (Stunning hilltop palace with Sheesh Mahal mirror work)</attraction>
+            <attraction>Hawa Mahal (Palace of Winds with 953 ornate latticed windows)</attraction>
+            <attraction>City Palace (Grand royal complex featuring museum courtyards)</attraction>
+            <attraction>Jantar Mantar (UNESCO World Heritage 18th-century astronomical observatory)</attraction>
+            <attraction>Nahargarh Fort (Spectacular panoramic sunset views over Jaipur)</attraction>
+            <attraction>Johari &amp; Bapu Bazaar (Authentic textiles, gemstones, and mojari footwear)</attraction>
+        </attractions>
+        <bestTimeToVisit>November to February (Pleasant winter climate)</bestTimeToVisit>
+        <estimatedBudget>₹10,000 - ₹15,000 per person</estimatedBudget>
+        <recommendedDuration>3 - 4 Days</recommendedDuration>
+        <travelTips>
+            <tip>Purchase the composite tourist ticket from the Department of Archaeology to save on multiple monument entries.</tip>
+            <tip>Attend the evening light and sound show at Amer Fort for an engaging historical narrative.</tip>
+            <tip>Relish authentic Rajasthani thali, Dal Baati Churma, and fresh Pyaaz Kachoris.</tip>
+            <tip>Respect local customs and bargain politely when shopping in traditional markets.</tip>
+        </travelTips>
+        <imagePath>https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imagePath>
+        <featured>true</featured>
+    </destination>
+
+    <destination id="kerala-backwaters">
+        <name>Kerala Backwaters</name>
+        <city>Alleppey (Alappuzha)</city>
+        <state>Kerala</state>
+        <category>Nature</category>
+        <shortDescription>A serene network of palm-fringed canals, tranquil lagoons, and traditional houseboat cruises in God's Own Country.</shortDescription>
+        <description>The Kerala Backwaters are a tranquil chain of brackish lagoons, lakes, and canals running parallel to the Arabian Sea coast. Alappuzha (Alleppey), known as the 'Venice of the East', is the primary gateway to these waterways. Cruising aboard a traditional Kettuvallam houseboat constructed from eco-friendly wood and coir, visitors witness pastoral village life, lush paddy fields, and migratory birds.</description>
+        <attractions>
+            <attraction>Houseboat Cruise on Vembanad Lake (India's longest freshwater lake)</attraction>
+            <attraction>Kumarakom Bird Sanctuary (Haven for waterfowl, cuckoos, and Siberian storks)</attraction>
+            <attraction>Marari Beach (Secluded white sand beach lined with coconut palms)</attraction>
+            <attraction>Pathiramanal Island (Pristine uninhabited island accessible only by boat)</attraction>
+            <attraction>Krishnapuram Palace (18th-century palace housing the Gajendra Moksham mural)</attraction>
+        </attractions>
+        <bestTimeToVisit>September to March (Crisp breezes and post-monsoon greenery)</bestTimeToVisit>
+        <estimatedBudget>₹14,000 - ₹22,000 per person</estimatedBudget>
+        <recommendedDuration>3 - 4 Days</recommendedDuration>
+        <travelTips>
+            <tip>Book houseboats that are officially certified and classified (Gold/Silver) by Kerala Tourism.</tip>
+            <tip>Savor authentic Karimeen Pollichathu (pearl spot fish) and coconut-rich traditional meals.</tip>
+            <tip>Consider a small shikara boat or government ferry ride to navigate intimate, narrow canals.</tip>
+            <tip>Carry organic mosquito repellent and sunscreen for relaxed deck lounging.</tip>
+        </travelTips>
+        <imagePath>https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imagePath>
+        <featured>true</featured>
+    </destination>
+
+    <destination id="golden-temple">
+        <name>Golden Temple</name>
+        <city>Amritsar</city>
+        <state>Punjab</state>
+        <category>Spiritual</category>
+        <shortDescription>The holiest gurdwara of Sikhism, bathed in gold leaf and surrounded by the sacred Amrit Sarovar pool of nectar.</shortDescription>
+        <description>Sri Harmandir Sahib, affectionately known as the Golden Temple, is the preeminent spiritual sanctuary of Sikhism. Built around a man-made pool known as the Amrit Sarovar, the shrine's lower marble walls are embellished with floral motifs while the upper floors are gilded in 750 kg of pure gold leaf. The complex represents universal brotherhood and equality, welcoming individuals of all faiths, castes, and creeds.</description>
+        <attractions>
+            <attraction>Harmandir Sahib Sanctum &amp; Parikrama (The central sanctum and marble walkway)</attraction>
+            <attraction>Guru Ka Langar (World's largest community kitchen serving over 100,000 free meals daily)</attraction>
+            <attraction>Akal Takht (Seat of Sikh temporal authority within the complex)</attraction>
+            <attraction>Jallianwala Bagh (Historic memorial garden of India's independence movement)</attraction>
+            <attraction>Wagah Border (High-energy evening retreat ceremony between India and Pakistan)</attraction>
+            <attraction>Partition Museum (Moving accounts of the 1947 division of Punjab)</attraction>
+        </attractions>
+        <bestTimeToVisit>October to March (Pleasant and cool winter days)</bestTimeToVisit>
+        <estimatedBudget>₹7,000 - ₹11,000 per person</estimatedBudget>
+        <recommendedDuration>2 - 3 Days</recommendedDuration>
+        <travelTips>
+            <tip>Cover your head with a scarf or bandana at all times inside the temple premises.</tip>
+            <tip>Remove footwear and wash your feet in the cleansing footbaths before entering.</tip>
+            <tip>Do not miss volunteering or partaking in the free, sacred Langar meal.</tip>
+            <tip>Arrive at the Wagah Border by 3:00 PM to secure prime seating for the ceremony.</tip>
+        </travelTips>
+        <imagePath>https://images.unsplash.com/photo-1514222134-b57cbb8ce073?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imagePath>
+        <featured>false</featured>
+    </destination>
+
+    <destination id="goa-beaches">
+        <name>Goa Beaches</name>
+        <city>Panaji &amp; Coastal Goa</city>
+        <state>Goa</state>
+        <category>Beach</category>
+        <shortDescription>Golden sandy shores, swaying palm groves, vibrant shacks, Portuguese heritage, and exhilarating water sports.</shortDescription>
+        <description>India's smallest state by area, Goa is world-renowned for its laid-back coastal rhythm, sun-drenched Arabian Sea beaches, Portuguese colonial villas, and flavorful seafood. While North Goa pulsates with vibrant flea markets, live beach music, and water adventures, South Goa offers tranquil, secluded coastlines and luxury beach retreats.</description>
+        <attractions>
+            <attraction>Baga &amp; Calangute Beaches (Vibrant sands, water sports, and beach shacks)</attraction>
+            <attraction>Palolem Beach (Crescent-shaped serene bay in South Goa with calm waters)</attraction>
+            <attraction>Dudhsagar Waterfalls (Spectacular four-tiered cascade in the Western Ghats)</attraction>
+            <attraction>Fort Aguada &amp; Lighthouse (17th-century Portuguese fortress overlooking Sinquerim)</attraction>
+            <attraction>Basilica of Bom Jesus (UNESCO World Heritage 16th-century baroque church)</attraction>
+            <attraction>Anjuna Flea Market (Eclectic weekly market with handicrafts, spices, and clothing)</attraction>
+        </attractions>
+        <bestTimeToVisit>November to February (Mild weather and lively beach shacks)</bestTimeToVisit>
+        <estimatedBudget>₹15,000 - ₹25,000 per person</estimatedBudget>
+        <recommendedDuration>4 - 5 Days</recommendedDuration>
+        <travelTips>
+            <tip>Rent a two-wheeler or self-drive vehicle for freedom of movement; always wear helmets and carry licenses.</tip>
+            <tip>Head to South Goa (Agonda, Palolem, Cavelossim) for peaceful relaxation and fewer crowds.</tip>
+            <tip>Strictly obey red warning flags on beaches and never swim under the influence or after dark.</tip>
+            <tip>Sample traditional Goan fish curry, Bebinca dessert, and fresh tropical fruit juices.</tip>
+        </travelTips>
+        <imagePath>https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imagePath>
+        <featured>false</featured>
+    </destination>
+
+    <destination id="varanasi-ghats">
+        <name>Varanasi Ghats</name>
+        <city>Varanasi</city>
+        <state>Uttar Pradesh</state>
+        <category>Spiritual</category>
+        <shortDescription>Ancient riverfront stone steps along the sacred River Ganga, brimming with timeless prayers, sacred fires, and devotion.</shortDescription>
+        <description>Varanasi (also called Kashi or Benares) is one of the world's oldest continuously inhabited civilizations. Perched along the crescent-shaped banks of the sacred River Ganges, the city is a living monument to Hindu spirituality, classical philosophy, music, and yoga. The 84 riverfront stone ghats host daily sunrise baths, centuries-old Vedic chants, and mesmerizing evening prayer rituals.</description>
+        <attractions>
+            <attraction>Dashashwamedh Ghat (Famed site of the spectacular evening Maha Ganga Aarti)</attraction>
+            <attraction>Assi Ghat (Serene southern ghat popular for morning yoga and cultural events)</attraction>
+            <attraction>Kashi Vishwanath Temple (Sacred Jyotirlinga shrine dedicated to Lord Shiva)</attraction>
+            <attraction>Morning Boat Ride (Panoramic sunrise views of the entire ghat crescent)</attraction>
+            <attraction>Manikarnika Ghat (Historic sacred cremation ghat steeped in Hindu spiritual belief)</attraction>
+            <attraction>Sarnath (Nearby Buddhist holy site where Lord Buddha delivered his first sermon)</attraction>
+        </attractions>
+        <bestTimeToVisit>October to March (Pleasant morning breezes and comfortable temperatures)</bestTimeToVisit>
+        <estimatedBudget>₹6,000 - ₹10,000 per person</estimatedBudget>
+        <recommendedDuration>2 - 3 Days</recommendedDuration>
+        <travelTips>
+            <tip>Take a hand-rowed boat at dawn (around 5:30 AM) to experience the morning mist and prayers.</tip>
+            <tip>Arrive at Dashashwamedh Ghat by 6:00 PM or hire a boat early to view the evening Aarti comfortably.</tip>
+            <tip>Dress respectfully covering shoulders and knees; avoid photographing cremation ceremonies.</tip>
+            <tip>Explore the narrow alleyways (galis) on foot to taste famous Banarasi Paan, Malaiyo, and Kachori.</tip>
+        </travelTips>
+        <imagePath>https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imagePath>
+        <featured>false</featured>
+    </destination>
+
+    <destination id="darjeeling">
+        <name>Darjeeling</name>
+        <city>Darjeeling</city>
+        <state>West Bengal</state>
+        <category>Hill Station</category>
+        <shortDescription>The Queen of the Hills in the Eastern Himalayas, famous for world-class tea gardens, mountain panoramas, and the Toy Train.</shortDescription>
+        <description>Set against the dramatic backdrop of Mt. Kanchenjunga—the world's third highest peak—Darjeeling is a historic hill resort perched at 6,700 feet in West Bengal. Renowned internationally for its aromatic black tea, the town offers a charming blend of colonial architecture, Buddhist monasteries, alpine greenery, and the UNESCO World Heritage-listed Darjeeling Himalayan Railway.</description>
+        <attractions>
+            <attraction>Tiger Hill (Legendary sunrise viewpoint over Kanchenjunga and Mount Everest)</attraction>
+            <attraction>Batasia Loop &amp; War Memorial (Spiraling railway loop with panoramic Himalayan vistas)</attraction>
+            <attraction>Darjeeling Himalayan Railway (The historic steam-driven 'Toy Train')</attraction>
+            <attraction>Happy Valley Tea Estate (Historic working tea plantation offering guided factory tours)</attraction>
+            <attraction>Peace Pagoda &amp; Japanese Temple (Tranquil Buddhist shrine in the forest)</attraction>
+            <attraction>Padmaja Naidu Himalayan Zoological Park (Breeding center for Red Pandas and Snow Leopards)</attraction>
+        </attractions>
+        <bestTimeToVisit>March to May (Clear spring skies and rhododendrons); October to December (Autumn views)</bestTimeToVisit>
+        <estimatedBudget>₹11,000 - ₹16,000 per person</estimatedBudget>
+        <recommendedDuration>3 - 4 Days</recommendedDuration>
+        <travelTips>
+            <tip>Book your Darjeeling Toy Train joyride weeks in advance through the IRCTC portal.</tip>
+            <tip>Wake up early (around 3:30 AM) to beat traffic for the Tiger Hill sunrise spectacle.</tip>
+            <tip>Taste first-flush Darjeeling tea at boutique tea houses along the Mall Road.</tip>
+            <tip>Carry warm layers and a light windcheater, as mountain weather can change swiftly.</tip>
+        </travelTips>
+        <imagePath>https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</imagePath>
+        <featured>false</featured>
+    </destination>
+</destinations>

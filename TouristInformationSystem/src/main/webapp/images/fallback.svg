@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+    <defs>
+        <linearGradient id="skyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0f2b48" />
+            <stop offset="60%" stop-color="#028090" />
+            <stop offset="100%" stop-color="#00a896" />
+        </linearGradient>
+        <linearGradient id="mountainGrad" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.3" />
+            <stop offset="100%" stop-color="#0a192f" stop-opacity="0.7" />
+        </linearGradient>
+        <radialGradient id="sunGrad" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#f4a261" stop-opacity="0.9" />
+            <stop offset="100%" stop-color="#e76f51" stop-opacity="0" />
+        </radialGradient>
+    </defs>
+    <!-- Background -->
+    <rect width="800" height="500" fill="url(#skyGrad)"/>
+    <!-- Glowing sun/moon -->
+    <circle cx="620" cy="140" r="90" fill="url(#sunGrad)"/>
+    <circle cx="620" cy="140" r="45" fill="#f4a261" fill-opacity="0.85"/>
+    
+    <!-- Mountain ranges -->
+    <polygon points="120,500 320,240 520,500" fill="url(#mountainGrad)"/>
+    <polygon points="340,500 560,190 780,500" fill="url(#mountainGrad)" fill-opacity="0.8"/>
+    <polygon points="-40,500 160,280 380,500" fill="#0f2b48" fill-opacity="0.9"/>
+    
+    <!-- Decorative compass icon -->
+    <g transform="translate(400, 220)" stroke="#ffffff" stroke-width="3" fill="none" opacity="0.6">
+        <circle cx="0" cy="0" r="40"/>
+        <line x1="0" y1="-50" x2="0" y2="50"/>
+        <line x1="-50" y1="0" x2="50" y2="0"/>
+        <polygon points="0,-36 8,-8 0,0" fill="#f4a261" stroke="none"/>
+        <polygon points="0,36 -8,8 0,0" fill="#ffffff" stroke="none"/>
+    </g>
+
+    <!-- Foreground overlay -->
+    <rect y="380" width="800" height="120" fill="#0a192f" fill-opacity="0.65"/>
+    <text x="400" y="435" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Roboto, sans-serif" font-size="24" font-weight="600" letter-spacing="1.5">
+        TOURIST INFORMATION SYSTEM
+    </text>
+    <text x="400" y="465" text-anchor="middle" fill="#02c39a" font-family="Segoe UI, Roboto, sans-serif" font-size="14" font-weight="500" letter-spacing="2">
+        DISCOVER INCREDIBLE INDIA
+    </text>
+</svg>

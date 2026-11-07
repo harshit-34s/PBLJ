@@ -1,0 +1,7 @@
+com\tourism\util\XMLDataReader.class
+com\tourism\model\Destination.class
+com\tourism\servlet\AboutServlet.class
+com\tourism\servlet\DestinationDetailsServlet.class
+com\tourism\servlet\HomeServlet.class
+com\tourism\servlet\TravelTipsServlet.class
+com\tourism\servlet\DestinationServlet.class
